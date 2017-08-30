@@ -9,6 +9,7 @@
 	<modules>
 		<module>web01</module>
 		<module>web02</module>
+		<module>web03</module>
 	</modules>
 	<packaging>pom</packaging>
 
