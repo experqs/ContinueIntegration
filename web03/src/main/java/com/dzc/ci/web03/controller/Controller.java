@@ -11,6 +11,6 @@ public class Controller {
 
     @GetMapping("/cc")
     public String cc() {
-        return "hi,cc. Add by CI!";
+        return "hi,cc. - Added by CI!";
     }
 }
